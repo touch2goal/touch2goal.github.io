@@ -1,6 +1,6 @@
 <Configs>
   
-  <useCB>0</useCB>
+  <useCB>1</useCB>
   <admobFullAdInterval>60</admobFullAdInterval>
   <admobAwardAdInterval>60</admobAwardAdInterval>
   <adMobReviveRound>4</adMobReviveRound>
