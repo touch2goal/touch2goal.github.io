@@ -4,7 +4,7 @@
   <admobAwardAdInterval>60</admobAwardAdInterval>
   <adMobReviveRound>4</adMobReviveRound>
   <helpTranslation>1</helpTranslation>
-  <fullAdRound>4</fullAdRound>
-  <admobFullAdRatio>50</admobFullAdRatio>
+  <fullAdRound>3</fullAdRound>
+  <admobFullAdRatio>75</admobFullAdRatio>
   <admobAwardAdRatio>50</admobAwardAdRatio>
  </Configs>
