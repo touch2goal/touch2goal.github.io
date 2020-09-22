@@ -2,7 +2,7 @@
   <useCB>0</useCB>
   <admobFullAdInterval>60</admobFullAdInterval>
   <admobAwardAdInterval>60</admobAwardAdInterval>
-  <adMobReviveRound>3</adMobReviveRound>
+  <adMobReviveRound>4</adMobReviveRound>
   <helpTranslation>1</helpTranslation>
   <fullAdRound>4</fullAdRound>
   <admobFullAdRatio>90</admobFullAdRatio>
