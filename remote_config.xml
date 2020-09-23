@@ -7,5 +7,6 @@
   <fullAdRound>4</fullAdRound>
   <admobFullAdRatio>50</admobFullAdRatio>
   <admobAwardAdRatio>50</admobAwardAdRatio>
-  <admobMaxShownNum>3</admobMaxShownNum>
+  <admobFullAdsMaxShownNum>2</admobFullAdsMaxShownNum>
+  <admobAwardAdsMaxShownNum>3</admobAwardAdsMaxShownNum>
  </Configs>
