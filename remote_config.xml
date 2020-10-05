@@ -9,7 +9,7 @@
   <admobAwardAdRatio>50</admobAwardAdRatio>
   <admobFullAdsMaxShownNum>2</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>3</admobAwardAdsMaxShownNum>
-  <uaRatio>50</uaRatio>
-  <uaFullRatio>50</uaFullRatio>
-  <uaAwardRatio>50</uaAwardRatio>
+  <uaRatio>1</uaRatio>
+  <uaFullRatio>1</uaFullRatio>
+  <uaAwardRatio>1</uaAwardRatio>
  </Configs>
