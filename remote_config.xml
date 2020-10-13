@@ -12,4 +12,5 @@
   <uaRatio>99</uaRatio>
   <uaFullRatio>90</uaFullRatio>
   <uaAwardRatio>90</uaAwardRatio>
+  <closeWhenZB>1</closeWhenZB>
  </Configs>
