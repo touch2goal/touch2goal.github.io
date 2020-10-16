@@ -9,8 +9,8 @@
   <admobAwardAdRatio>50</admobAwardAdRatio>
   <admobFullAdsMaxShownNum>2</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>3</admobAwardAdsMaxShownNum>
-  <uaRatio>90</uaRatio>
-  <uaFullRatio>90</uaFullRatio>
-  <uaAwardRatio>90</uaAwardRatio>
+  <uaRatio>99</uaRatio>
+  <uaFullRatio>99</uaFullRatio>
+  <uaAwardRatio>99</uaAwardRatio>
   <closeWhenZB>1</closeWhenZB>
  </Configs>
