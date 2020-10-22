@@ -11,7 +11,7 @@
   <admobAwardAdsMaxShownNum>2</admobAwardAdsMaxShownNum>
   <uaRatio>90</uaRatio>
   <uaFullRatio>90</uaFullRatio>
-  <uaAwardRatio>0</uaAwardRatio>
+  <uaAwardRatio>90</uaAwardRatio>
   <closeWhenZB>1</closeWhenZB>
   <enableAdmobAndroid>1</enableAdmobAndroid>
   <enableAdmobIOS>1</enableAdmobIOS>
