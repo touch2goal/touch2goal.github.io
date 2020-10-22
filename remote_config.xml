@@ -7,7 +7,7 @@
   <fullAdRound>4</fullAdRound>
   <admobFullAdRatio>10</admobFullAdRatio>
   <admobAwardAdRatio>50</admobAwardAdRatio>
-  <admobFullAdsMaxShownNum>0</admobFullAdsMaxShownNum>
+  <admobFullAdsMaxShownNum>1</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>2</admobAwardAdsMaxShownNum>
   <uaRatio>90</uaRatio>
   <uaFullRatio>90</uaFullRatio>
