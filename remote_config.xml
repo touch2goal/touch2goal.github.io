@@ -14,5 +14,5 @@
   <uaAwardRatio>90</uaAwardRatio>
   <closeWhenZB>1</closeWhenZB>
   <enableAdmobAndroid>1</enableAdmobAndroid>
-  <enableAdmobIOS>1</enableAdmobIOS>
+  <enableAdmobIOS>0</enableAdmobIOS>
  </Configs>
