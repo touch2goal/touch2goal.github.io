@@ -5,9 +5,9 @@
   <adMobReviveRound>3</adMobReviveRound>
   <helpTranslation>0</helpTranslation>
   <fullAdRound>3</fullAdRound>
-  <admobFullAdRatio>10</admobFullAdRatio>
+  <admobFullAdRatio>30</admobFullAdRatio>
   <admobAwardAdRatio>99</admobAwardAdRatio>
-  <admobFullAdsMaxShownNum>0</admobFullAdsMaxShownNum>
+  <admobFullAdsMaxShownNum>2</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>3</admobAwardAdsMaxShownNum>
   <uaRatio>90</uaRatio>
   <uaFullRatio>90</uaFullRatio>
