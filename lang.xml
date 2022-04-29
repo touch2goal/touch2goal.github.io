@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Langs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<lang>
+		<id>startMatch</id>
+		<zh>开始比赛_</zh>
+		<en>PLAY_</en>
+		<cn>開始比賽</cn>
+		<es>JUGAR</es>
+		<pt>TOQUE_</pt>
+		<it>GIOCA</it>
+		<fr>JOUER</fr>
+		<ru>ИГРАТЬ</ru>
+		<de>ABSPIELEN</de>
+		<ko>플레이</ko>
+		<jr>演奏する</jr>
+		<in>BERMAIN</in>
+		<tr>OYNA</tr>
+	</lang>
+	<lang>
+		<id>roundAndSeasonInfo</id>
+		<zh>第{0}赛季，第{1}周_</zh>
+		<en>Season {0}，Week {1}_</en>
+		<cn>第{0}賽季，第{1}輪</cn>
+		<es>Temporada {0}, Semana {1}</es>
+		<pt>Temporada {0}, Semana {1}_</pt>
+		<it>Stagione {0} ， Settimana {1}</it>
+		<fr>Saison {0} ， Semaine {1}</fr>
+		<ru>Сезон {0} ， Неделя {1}</ru>
+		<de>Staffel {0} ， Woche {1}</de>
+		<ko>시즌 {0} ， {1}주차</ko>
+		<jr>シーズン{0}、週{1}</jr>
+		<in>Musim {0} ， Minggu {1}</in>
+		<tr>Sezon {0}, Hafta {1}</tr>
+	</lang>
+</Langs>
