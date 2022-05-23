@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Langs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<lang>
-		<id>startMatch</id>
-		<zh>开始比赛</zh>
-		<en>PLAY</en>
-		<cn>開始比賽</cn>
-		<es>JUGAR</es>
-		<pt>TOQUE</pt>
-		<it>GIOCA</it>
-		<fr>JOUER</fr>
-		<ru>ИГРАТЬ</ru>
-		<de>ABSPIELEN</de>
-		<ko>플레이</ko>
-		<jr>演奏する</jr>
-		<in>BERMAIN</in>
-		<tr>OYNA</tr>
+		<id>more</id>
+		<zh>更多</zh>
+		<en>More</en>
+		<cn>更多</cn>
+		<es>Más</es>
+		<pt>Mais</pt>
+		<it>Di Più</it>
+		<fr>Plus</fr>
+		<ru>Еще</ru>
+		<de>Mehr</de>
+		<ko>더보기</ko>
+		<jr>もっと</jr>
+		<in>Lebih</in>
+		<tr>Diğer</tr>
+	</lang>
+	<lang>
+		<id>dailyTask</id>
+		<zh>每日任务</zh>
+		<en>Daily Tasks</en>
+		<cn>每日任務</cn>
+		<es>Tareas</es>
+		<pt>Tarefas diárias</pt>
+		<it>Attività</it>
+		<fr>Tâches</fr>
+		<ru>задания</ru>
+		<de>Aufgaben</de>
+		<ko>일일 작업</ko>
+		<jr>毎日のタスク</jr>
+		<in>Tugas harian</in>
+		<tr>Günlük</tr>
 	</lang>
 </Langs>
