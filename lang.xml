@@ -17,19 +17,19 @@
 		<tr>Diğer</tr>
 	</lang>
 	<lang>
-		<id>dailyTask</id>
-		<zh>每日任务</zh>
-		<en>Daily Tasks</en>
-		<cn>每日任務</cn>
-		<es>Tareas</es>
-		<pt>Tarefas diárias</pt>
-		<it>Attività</it>
-		<fr>Tâches</fr>
-		<ru>задания</ru>
-		<de>Aufgaben</de>
-		<ko>일일 작업</ko>
-		<jr>毎日のタスク</jr>
-		<in>Tugas harian</in>
-		<tr>Günlük</tr>
+		<id>DailyTask_9</id>
+		<zh>打入3个进球，且进球前传球4次</zh>
+		<en>score 3 goals(need 4 passes before scoring)</en>
+		<cn>打入3個進球，且進球前傳球4次</cn>
+		<es>3 goles marcados, 4 pases antes de marcar</es>
+		<pt>3 gols marcados, 4 passes antes de marcar</pt>
+		<it>Segna 3 gol, 4 passaggi prima di segnare</it>
+		<fr>Marquer 3 buts, 4 passes avant de marquer</fr>
+		<ru>Забить 3 голов, 4 пасов до гола</ru>
+		<de>3 erzielte Tore, 4 Pässe vor dem Tor</de>
+		<ko>3 골 득점 득점 전 4번의 패스</ko>
+		<jr>3ゴールを記録  ゴール前の4パス</jr>
+		<in>3 gol tercipta,  4 operan sebelum mencetak gol</in>
+		<tr>3 gol atıldı, gol atmadan önce 4 pas</tr>
 	</lang>
 </Langs>
