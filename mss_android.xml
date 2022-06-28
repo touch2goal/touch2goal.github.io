@@ -11,4 +11,5 @@
   <gameDifficulty1>100</gameDifficulty1>
   <gameDifficulty2>100</gameDifficulty2>
   <gameDifficulty3>100</gameDifficulty3>
+  <keeperModeRatio>30</keeperModeRatio>
  </Configs>
