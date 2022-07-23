@@ -3,8 +3,8 @@
   <admobAwardAdInterval>60</admobAwardAdInterval>
   <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
-  <admobFullAdRatio>70</admobFullAdRatio>
-  <admobAwardAdRatio>70</admobAwardAdRatio>
+  <admobFullAdRatio>100</admobFullAdRatio>
+  <admobAwardAdRatio>100</admobAwardAdRatio>
   <fullAdRound>2</fullAdRound>
   <helpTranslation>0</helpTranslation>
   <closeWhenZB>0</closeWhenZB>
