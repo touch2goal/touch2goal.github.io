@@ -12,7 +12,7 @@
   <gameDifficulty2>105</gameDifficulty2>
   <gameDifficulty3>110</gameDifficulty3>
   <keeperModeRatio>30</keeperModeRatio>
-  <disableShare>1</disableShare>
+  <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
   <disableUA>0</disableUA>
  </Configs>
