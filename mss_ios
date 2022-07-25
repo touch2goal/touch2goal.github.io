@@ -1,0 +1,15 @@
+<Configs>
+  <admobFullAdInterval>60</admobFullAdInterval>
+  <admobAwardAdInterval>60</admobAwardAdInterval>
+  <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
+  <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
+  <admobFullAdRatio>100</admobFullAdRatio>
+  <admobAwardAdRatio>100</admobAwardAdRatio>
+  <fullAdRound>2</fullAdRound>
+  <helpTranslation>0</helpTranslation>
+  <closeWhenZB>0</closeWhenZB>
+  <gameDifficulty1>100</gameDifficulty1>
+  <gameDifficulty2>105</gameDifficulty2>
+  <gameDifficulty3>110</gameDifficulty3>
+  <keeperModeRatio>30</keeperModeRatio>
+ </Configs>
