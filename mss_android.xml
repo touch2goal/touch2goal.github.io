@@ -14,5 +14,5 @@
   <keeperModeRatio>30</keeperModeRatio>
   <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
-  <disableUA>0</disableUA>
+  <disableUA>1</disableUA>
  </Configs>
