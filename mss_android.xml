@@ -9,8 +9,13 @@
   <helpTranslation>0</helpTranslation>
   <closeWhenZB>0</closeWhenZB>
   <gameDifficulty1>110</gameDifficulty1>
-  <gameDifficulty2>110</gameDifficulty2>
-  <gameDifficulty3>120</gameDifficulty3>
+  <gameDifficulty2>120</gameDifficulty2>
+  <gameDifficulty3>130</gameDifficulty3>
+  
+  <newGameDifficulty1>110</gameDifficulty1>
+  <newGameDifficulty2>115</gameDifficulty2>
+  <newGameDifficulty3>115</gameDifficulty3>
+  
   <keeperModeRatio>30</keeperModeRatio>
   <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
