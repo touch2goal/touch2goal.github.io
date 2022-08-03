@@ -11,11 +11,9 @@
   <gameDifficulty1>110</gameDifficulty1>
   <gameDifficulty2>120</gameDifficulty2>
   <gameDifficulty3>130</gameDifficulty3>
-  
   <newGameDifficulty1>110</newGameDifficulty1>
   <newGameDifficulty2>115</newGameDifficulty2>
   <newGameDifficulty3>115</newGameDifficulty3>
-  
   <keeperModeRatio>30</keeperModeRatio>
   <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
