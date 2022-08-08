@@ -1,10 +1,10 @@
 <Configs>
   <admobFullAdInterval>30</admobFullAdInterval>
   <admobAwardAdInterval>30</admobAwardAdInterval>
-  <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
-  <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
-  <admobFullAdRatio>100</admobFullAdRatio>
-  <admobAwardAdRatio>100</admobAwardAdRatio>
+  <admobFullAdsMaxShownNum>4</admobFullAdsMaxShownNum>
+  <admobAwardAdsMaxShownNum>4</admobAwardAdsMaxShownNum>
+  <admobFullAdRatio>65</admobFullAdRatio>
+  <admobAwardAdRatio>65</admobAwardAdRatio>
   <fullAdRound>2</fullAdRound>
   <helpTranslation>0</helpTranslation>
   <closeWhenZB>0</closeWhenZB>
