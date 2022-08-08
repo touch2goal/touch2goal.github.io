@@ -1,8 +1,8 @@
 <Configs>
   <admobFullAdInterval>30</admobFullAdInterval>
   <admobAwardAdInterval>30</admobAwardAdInterval>
-  <admobFullAdsMaxShownNum>4</admobFullAdsMaxShownNum>
-  <admobAwardAdsMaxShownNum>4</admobAwardAdsMaxShownNum>
+  <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
+  <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
   <admobFullAdRatio>65</admobFullAdRatio>
   <admobAwardAdRatio>65</admobAwardAdRatio>
   <fullAdRound>2</fullAdRound>
