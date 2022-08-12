@@ -5,14 +5,14 @@
   <adMobReviveRound>1</adMobReviveRound>
   <helpTranslation>0</helpTranslation>
   <fullAdRound>2</fullAdRound>
-  <admobFullAdRatio>99</admobFullAdRatio>
-  <admobAwardAdRatio>99</admobAwardAdRatio>
+  <admobFullAdRatio>70</admobFullAdRatio>
+  <admobAwardAdRatio>70</admobAwardAdRatio>
   <admobFullAdsMaxShownNum>4</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
   <uaRatio>100</uaRatio>
   <uaFullRatio>100</uaFullRatio>
   <uaAwardRatio>100</uaAwardRatio>
-  <closeWhenZB>1</closeWhenZB>
+  <closeWhenZB>0</closeWhenZB>
   <enableAdmobAndroid>1</enableAdmobAndroid>
   <enableAdmobIOS>1</enableAdmobIOS>
   <enableFramePlay>0</enableFramePlay>
