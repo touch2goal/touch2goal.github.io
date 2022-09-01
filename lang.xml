@@ -17,19 +17,20 @@
 		<tr>Diğer</tr>
 	</lang>
 	<lang>
-		<id>DailyTask_9</id>
-		<zh>打入3个进球，且进球前传球4次</zh>
-		<en>score 3 goals(need 4 passes before scoring)</en>
-		<cn>打入3個進球，且進球前傳球4次</cn>
-		<es>3 goles marcados, 4 pases antes de marcar</es>
-		<pt>3 gols marcados, 4 passes antes de marcar</pt>
-		<it>Segna 3 gol, 4 passaggi prima di segnare</it>
-		<fr>Marquer 3 buts, 4 passes avant de marquer</fr>
-		<ru>Забить 3 голов, 4 пасов до гола</ru>
-		<de>3 erzielte Tore, 4 Pässe vor dem Tor</de>
-		<ko>3 골 득점 득점 전 4번의 패스</ko>
-		<jr>3ゴールを記録  ゴール前の4パス</jr>
-		<in>3 gol tercipta,  4 operan sebelum mencetak gol</in>
-		<tr>3 gol atıldı, gol atmadan önce 4 pas</tr>
+		<id>canUseRounds</id>
+		<zh>总轮数 {0} (到期后您可以使用更少的金币重新激活)</zh>
+		<en>Total rounds: {0} (After expiration you can use fewer coins to reactivate)</en>
+		<cn>總輪數 {0} (到期後您可以使用更少的金幣重新激活)</cn>
+		<es>Rondas totales: {0} (Después del vencimiento, puede usar menos monedas para reactivar)</es>
+		<pt>Total de rodadas: {0} (Após a expiração, você pode usar menos moedas para reativar)</pt>
+		<it>Giornate totali: {0} (Dopo la scadenza puoi utilizzare meno monete per riattivare)</it>
+		<fr>Tours totaux: {0} (Après expiration, vous pouvez utiliser moins de pièces pour réactiver)</fr>
+		<ru>всего матчей: {0} (По истечении срока действия вы можете использовать меньше монет для повторной активации)</ru>
+		<de>Gesamtrunden: {0} (Nach Ablauf können Sie weniger Coins zur Reaktivierung verwenden)</de>
+		<ko>총 라운드 : {0} (만료 후 더 적은 수의 코인을 사용하여 재활성화할 수 있습니다.)</ko>
+		<jr>合計ラウンド数：{0} （有効期限が切れた後は、より少ないコインを使用して再アクティブ化できます）</jr>
+		<in>Putaran total: {0} (Setelah kedaluwarsa, Anda dapat menggunakan lebih sedikit koin untuk mengaktifkan kembali)</in>
+		<tr>Toplam maçlar: {0} (Süresi dolduktan sonra yeniden etkinleştirmek için daha az jeton kullanabilirsiniz)</tr>
 	</lang>
+	
 </Langs>
