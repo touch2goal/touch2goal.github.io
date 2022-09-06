@@ -5,8 +5,8 @@
   <adMobReviveRound>1</adMobReviveRound>
   <helpTranslation>0</helpTranslation>
   <fullAdRound>2</fullAdRound>
-  <admobFullAdRatio>100</admobFullAdRatio>
-  <admobAwardAdRatio>100</admobAwardAdRatio>
+  <admobFullAdRatio>70</admobFullAdRatio>
+  <admobAwardAdRatio>70</admobAwardAdRatio>
   <admobFullAdsMaxShownNum>10</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>10</admobAwardAdsMaxShownNum>
   <uaRatio>100</uaRatio>
