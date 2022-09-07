@@ -1,14 +1,14 @@
 <Configs>
   <useCB>0</useCB>
-  <admobFullAdInterval>30</admobFullAdInterval>
-  <admobAwardAdInterval>30</admobAwardAdInterval>
+  <admobFullAdInterval>60</admobFullAdInterval>
+  <admobAwardAdInterval>60</admobAwardAdInterval>
   <adMobReviveRound>1</adMobReviveRound>
   <helpTranslation>0</helpTranslation>
   <fullAdRound>2</fullAdRound>
   <admobFullAdRatio>70</admobFullAdRatio>
   <admobAwardAdRatio>70</admobAwardAdRatio>
-  <admobFullAdsMaxShownNum>10</admobFullAdsMaxShownNum>
-  <admobAwardAdsMaxShownNum>10</admobAwardAdsMaxShownNum>
+  <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
+  <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
   <uaRatio>100</uaRatio>
   <uaFullRatio>100</uaFullRatio>
   <uaAwardRatio>100</uaAwardRatio>
