@@ -1,6 +1,6 @@
 <Configs>
-  <admobFullAdInterval>30</admobFullAdInterval>
-  <admobAwardAdInterval>30</admobAwardAdInterval>
+  <admobFullAdInterval>60</admobFullAdInterval>
+  <admobAwardAdInterval>60</admobAwardAdInterval>
   <admobFullAdsMaxShownNum>5</admobFullAdsMaxShownNum>
   <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
   <admobFullAdRatio>100</admobFullAdRatio>
