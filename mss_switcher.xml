@@ -1,4 +1,4 @@
 <Configs>
-	<IOS_OFF>1</IOS_OFF>
-	<ANDROID_OFF>1</ANDROID_OFF>
+	<IOS_OFF>0</IOS_OFF>
+	<ANDROID_OFF>0</ANDROID_OFF>
  </Configs>
