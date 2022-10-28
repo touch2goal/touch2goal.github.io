@@ -16,4 +16,7 @@
   <newGameDifficulty3>115</newGameDifficulty3>
   <keeperModeRatio>30</keeperModeRatio>
   <allowSkip>1</allowSkip>
+  <battlePassName>wc</battlePassName>
+  <battlePassStart>2022-10-28</battlePassStart>
+  <battlePassEnd>2022-10-30</battlePassEnd>
  </Configs>
