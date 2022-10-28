@@ -19,4 +19,7 @@
   <disableAdmob>0</disableAdmob>
   <disableUA>0</disableUA>
   <allowSkip>1</allowSkip>
+  <battlePassName>wc</battlePassName>
+  <battlePassStart>2022-10-28</battlePassStart>
+  <battlePassEnd>2022-10-30</battlePassEnd>
  </Configs>
