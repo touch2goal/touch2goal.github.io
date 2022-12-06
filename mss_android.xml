@@ -21,6 +21,6 @@
   <battlePassName>wc</battlePassName>
   <battlePassStart>2022-10-28</battlePassStart>
   <battlePassEnd>2022-12-19</battlePassEnd>
-  <allowSkip>1</allowSkip>
+  <allowSkip>0</allowSkip>
   <allowSkipVers>0.54</allowSkipVers>
  </Configs>
