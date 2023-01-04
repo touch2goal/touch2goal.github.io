@@ -18,9 +18,10 @@
   <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
   <disableUA>0</disableUA>
-  <battlePassName>wc</battlePassName>
-  <battlePassStart>2022-10-28</battlePassStart>
-  <battlePassEnd>2022-12-19</battlePassEnd>
+  <battlePassName>winter_pass</battlePassName>
+  <battlePassStartNew>2022-10-28</battlePassStartNew>
+  <battlePassEndNew>2022-12-19</battlePassEndNew>
+  <battlePassVer>57</battlePassVer>
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.55|0.56</allowSkipVers>
  </Configs>
