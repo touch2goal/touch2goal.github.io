@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Langs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<lang>
-		<id>more</id>
-		<zh>更多</zh>
-		<en>More</en>
-		<cn>更多</cn>
-		<es>Más</es>
-		<pt>Mais</pt>
-		<it>Di Più</it>
-		<fr>Plus</fr>
-		<ru>Еще</ru>
-		<de>Mehr</de>
-		<ko>더보기</ko>
-		<jr>もっと</jr>
-		<in>Lebih</in>
-		<tr>Diğer</tr>
+		<id>startProPass</id>
+		<zh>开启超级通行证</zh>
+		<en>Start Pro Pass Now</en>
+		<cn>開啟超級通行證</cn>
+		<es>Iniciar Pro Pass ahora</es>
+		<pt>Iniciar Pro Pass agora</pt>
+		<it>Avvia Pro Pass adesso</it>
+		<fr>Démarrer Pro Pass maintenant</fr>
+		<ru>Начать Pro Pass сейчас</ru>
+		<de>Pro Pass jetzt starten</de>
+		<ko>지금 Pro Pass 시작하기</ko>
+		<jr>プロパスを今すぐ開始</jr>
+		<in>Mulai Pro Lulus Sekarang</in>
+		<tr>Pro Pass'i Şimdi Başlatın</tr>
 	</lang>
 </Langs>
