@@ -22,7 +22,7 @@
   <battlePassStartNew>2023-1-3</battlePassStartNew>
   <battlePassEndNew>2023-2-20</battlePassEndNew>
   <battlePassVer>57</battlePassVer>
-  <battlePassDebugName>57</battlePassDebugName>
+  <battlePassDebugName>street_pass</battlePassDebugName>
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.59|0.60|0.61</allowSkipVers>
   <noBanner>0</noBanner>
