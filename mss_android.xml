@@ -24,6 +24,6 @@
   <battlePassVer>57</battlePassVer>
   <battlePassDebugName>street_pass</battlePassDebugName>
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.59|0.60|0.61</allowSkipVers>
+  <allowSkipVers>0.61|0.62</allowSkipVers>
   <noBanner>0</noBanner>
  </Configs>
