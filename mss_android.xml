@@ -25,10 +25,10 @@
   <battlePassEndNew>2023-3-20</battlePassEndNew>
   <battlePassVer>62</battlePassVer>
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.61|0.62</allowSkipVers>
+  <allowSkipVers>0.63</allowSkipVers>
 
   
   <updateType>2</updateType>
-  <updateVer>63</updateVer>
+  <updateVer>62</updateVer>
   <updateURL>market://details?id=com.touch2goal.soccer</updateURL>
  </Configs>
