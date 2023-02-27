@@ -18,11 +18,11 @@
   <disableShare>0</disableShare>
   <disableAdmob>0</disableAdmob>
   <disableUA>0</disableUA>
+  
   <battlePassName>street_pass</battlePassName>
   <battlePassStartNew>2023-2-20</battlePassStartNew>
   <battlePassEndNew>2023-3-20</battlePassEndNew>
   <battlePassVer>62</battlePassVer>
-  <battlePassDebugName>street_pass</battlePassDebugName>
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.61|0.62</allowSkipVers>
   <noBanner>0</noBanner>
