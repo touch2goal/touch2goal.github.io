@@ -26,4 +26,8 @@
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.61|0.62</allowSkipVers>
   <noBanner>0</noBanner>
+  
+  <updateType>1</updateType>
+  <updateVer>63</updateVer>
+  <updateURL>market://details?id=com.touch2goal.soccer</updateURL>
  </Configs>
