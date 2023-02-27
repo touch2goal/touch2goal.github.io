@@ -15,6 +15,7 @@
   <newGameDifficulty2>115</newGameDifficulty2>
   <newGameDifficulty3>115</newGameDifficulty3>
   <keeperModeRatio>30</keeperModeRatio>
+  <noBanner>0</noBanner>
   
   
   <battlePassName>street_pass</battlePassName>
