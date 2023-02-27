@@ -28,7 +28,7 @@
   <allowSkipVers>0.61|0.62</allowSkipVers>
 
   
-  <updateType>1</updateType>
+  <updateType>2</updateType>
   <updateVer>63</updateVer>
   <updateURL>market://details?id=com.touch2goal.soccer</updateURL>
  </Configs>
