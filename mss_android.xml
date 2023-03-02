@@ -21,8 +21,8 @@
   <noBanner>0</noBanner>
   
   <battlePassName>street_pass</battlePassName>
-  <battlePassStartNew>2023-2-20</battlePassStartNew>
-  <battlePassEndNew>2023-3-20</battlePassEndNew>
+  <battlePassStartNew>2023-3-2</battlePassStartNew>
+  <battlePassEndNew>2023-4-2</battlePassEndNew>
   <battlePassVer>62</battlePassVer>
   
   <allowSkip>1</allowSkip>
