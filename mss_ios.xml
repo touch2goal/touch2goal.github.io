@@ -19,9 +19,9 @@
   
   
   <battlePassName>street_pass</battlePassName>
-  <battlePassStartNew>2023-3-2</battlePassStartNew>
-  <battlePassEndNew>2023-4-2</battlePassEndNew>
-  <battlePassVer>62</battlePassVer>
+  <battlePassStartNew>2023-4-2</battlePassStartNew>
+  <battlePassEndNew>2023-5-2</battlePassEndNew>
+  <battlePassVer>64</battlePassVer>
   
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.64|0.65</allowSkipVers>
