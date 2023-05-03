@@ -20,9 +20,9 @@
   <disableUA>0</disableUA>
   <noBanner>0</noBanner>
   
-  <battlePassName>hero_pass</battlePassName>
-  <battlePassStartNew>2023-4-2</battlePassStartNew>
-  <battlePassEndNew>2023-5-2</battlePassEndNew>
+  <battlePassName>dragonball_pass</battlePassName>
+  <battlePassStartNew>2023-5-3</battlePassStartNew>
+  <battlePassEndNew>2023-6-3</battlePassEndNew>
   <battlePassVer>64</battlePassVer>
   
   <allowSkip>1</allowSkip>
