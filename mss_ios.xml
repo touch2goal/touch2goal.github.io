@@ -19,12 +19,12 @@
   
   
   <battlePassName>hero_pass</battlePassName>
-  <battlePassStartNew>2023-4-2</battlePassStartNew>
-  <battlePassEndNew>2023-5-2</battlePassEndNew>
-  <battlePassVer>64</battlePassVer>
+  <battlePassStartNew>2023-5-23</battlePassStartNew>
+  <battlePassEndNew>2023-6-23</battlePassEndNew>
+  <battlePassVer>73</battlePassVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.66|0.67|0.69</allowSkipVers>
+  <allowSkipVers>0.75</allowSkipVers>
   
   
   
