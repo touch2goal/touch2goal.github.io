@@ -26,7 +26,7 @@
   <battlePassVer>73</battlePassVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.75</allowSkipVers>
+  <allowSkipVers>0.75|0.76</allowSkipVers>
 
   
   <updateType>0</updateType>
