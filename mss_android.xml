@@ -25,6 +25,11 @@
   <battlePassEndNew>2023-6-23</battlePassEndNew>
   <battlePassVer>73</battlePassVer>
   
+  <worldRankIndex>1</worldRankIndex>
+  <worldRankStartNew>2023-5-23</worldRankStartNew>
+  <worldRankEndNew>2023-6-23</worldRankEndNew>
+  <worldRankVer>73</worldRankVer>
+  
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.77|0.78</allowSkipVers>
 
