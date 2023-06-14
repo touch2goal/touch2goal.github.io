@@ -34,7 +34,7 @@
   <allowSkipVers>0.79</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
-   <autoCloseAfterRounds>1</autoCloseAfterRounds>
+  <autoCloseAfterRounds>5</autoCloseAfterRounds>
 
   
   <updateType>0</updateType>
