@@ -31,7 +31,8 @@
   <worldRankVer>73</worldRankVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.77|0.78</allowSkipVers>
+  <allowSkipVers>0.79</allowSkipVers>
+  <allowExtraFuc>1</allowExtraFuc>
 
   
   <updateType>0</updateType>
