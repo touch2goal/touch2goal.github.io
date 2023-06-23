@@ -21,14 +21,14 @@
   <noBannerRatio>0</noBannerRatio>
   
   <battlePassName>dragonball_pass</battlePassName>
-  <battlePassStartNew>2023-5-23</battlePassStartNew>
-  <battlePassEndNew>2023-6-23</battlePassEndNew>
-  <battlePassVer>73</battlePassVer>
+  <battlePassStartNew>2023-6-23</battlePassStartNew>
+  <battlePassEndNew>2023-7-5</battlePassEndNew>
+  <battlePassVer>79</battlePassVer>
   
   <worldRankIndex>1</worldRankIndex>
-  <worldRankStartNew>2023-5-23</worldRankStartNew>
-  <worldRankEndNew>2023-6-23</worldRankEndNew>
-  <worldRankVer>73</worldRankVer>
+  <worldRankStartNew>2023-6-23</worldRankStartNew>
+  <worldRankEndNew>2023-7-5</worldRankEndNew>
+  <worldRankVer>79</worldRankVer>
   
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.79</allowSkipVers>
