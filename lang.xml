@@ -16,4 +16,39 @@
 		<in>Mulai Pro Lulus Sekarang</in>
 		<tr>Pro Pass'i Şimdi Başlatın</tr>
 	</lang>
+
+	<lang>
+		<id>proPass2</id>
+		<zh>解锁新等级无需等待2小时</zh>
+		<en>Unlock new levels without waiting 2 hours</en>
+		<cn>解鎖新等級無需等待2小時</cn>
+		<es>Desbloquea nuevos niveles sin esperar 2 horas</es>
+		<pt>Desbloqueie novos níveis sem esperar 2 horas</pt>
+		<it>Sblocca nuovi livelli senza aspettare 2 ore</it>
+		<fr>Débloquez de nouveaux niveaux sans attendre 2 heures</fr>
+		<ru>Открывайте новые уровни, не дожидаясь 2 часов</ru>
+		<de>Schalte neue Level frei, ohne 2 Stunden zu warten</de>
+		<ko>2시간을 기다리지 않고 새로운 레벨을 잠금 해제하세요</ko>
+		<jr>2時間待たずに新しいレベルのロックを解除</jr>
+		<in>Buka kunci level baru tanpa menunggu 2 jam</in>
+		<tr>2 saat beklemeden yeni seviyelerin kilidini açın</tr>
+	</lang>
+
+	<lang>
+		<id>bpBlockerDesc</id>
+		<zh>您可以使用宝石立即激活下一个等级，或者购买足球通行证来永久去除2小时倒计时的限制。</zh>
+		<en>You can use gems to activate the next level immediately or purchase the soccer Pass to permanently remove the 2 hours countdown restriction.</en>
+		<cn>您可以使用寶石立即激活下一個等級，或者購買足球通行證來永久去除2小時倒計時的限制。</cn>
+		<es>Puede usar gemas para activar el siguiente nivel de inmediato o comprar el Pase de fútbol para eliminar de forma permanente la restricción de cuenta regresiva de 2 horas.</es>
+		<pt>Você pode usar gemas para ativar o próximo nível imediatamente ou comprar o passe de futebol para remover permanentemente a restrição de contagem regressiva de 2 horas.</pt>
+		<it>Puoi utilizzare le gemme per attivare immediatamente il livello successivo o acquistare il Soccer Pass per rimuovere definitivamente la restrizione del conto alla rovescia di 2 ore.</it>
+		<fr>Vous pouvez utiliser des gemmes pour activer immédiatement le niveau suivant ou acheter le Soccer Pass pour supprimer définitivement la restriction du compte à rebours de 2 heures.</fr>
+		<ru>Вы можете использовать драгоценные камни, чтобы немедленно активировать следующий уровень, или приобрести футбольный абонемент, чтобы навсегда снять ограничение на 2-часовой обратный отсчет.</ru>
+		<de>Sie können Edelsteine verwenden, um das nächste Level sofort zu aktivieren, oder den Fußballpass kaufen, um die 2-Stunden-Countdown-Beschränkung dauerhaft aufzuheben.</de>
+		<ko>보석을 사용하여 다음 레벨을 즉시 활성화하거나 축구 패스를 구매하여 2시간 카운트다운 제한을 영구적으로 제거할 수 있습니다.</ko>
+		<jr>ジェムを使用してすぐに次のレベルをアクティブにするか、サッカー パスを購入して 2 時間のカウントダウン制限を完全に削除することができます。</jr>
+		<in>Anda dapat menggunakan permata untuk segera mengaktifkan level berikutnya atau membeli tiket sepak bola untuk menghapus batasan hitungan mundur 2 jam secara permanen.</in>
+		<tr>Bir sonraki seviyeyi hemen etkinleştirmek için mücevherleri kullanabilir veya 2 saatlik geri sayım kısıtlamasını kalıcı olarak kaldırmak için futbol Pass satın alabilirsiniz.</tr>
+	</lang>
+	
 </Langs>
