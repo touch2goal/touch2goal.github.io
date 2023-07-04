@@ -31,7 +31,7 @@
   <worldRankVer>79</worldRankVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>84</allowSkipVers>
+  <allowSkipVers>0.84|0.85</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   <autoCloseAfterRounds>5</autoCloseAfterRounds>
