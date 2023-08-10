@@ -18,7 +18,7 @@
   <noBannerRatio>0</noBannerRatio>
   
   
- <battlePassName>zombie_pass</battlePassName>
+  <battlePassName>zombie_pass</battlePassName>
   <battlePassStartNew>2023-8-10</battlePassStartNew>
   <battlePassEndNew>2023-9-30</battlePassEndNew>
   <battlePassVer>88</battlePassVer>
