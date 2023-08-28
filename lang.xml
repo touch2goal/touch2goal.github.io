@@ -17,7 +17,74 @@
 		<tr>Efsane</tr>
 	</lang>
 
-	
+	<lang>
+		<id>album_11</id>
+		<zh>小尾巴的故事</zh>
+		<en>Tales of Tiny Tails</en>
+		<cn>小尾巴的故事</cn>
+		<es>Cuentos de colas diminutas</es>
+		<pt>Contos de Tiny Tails</pt>
+		<it>Racconti di piccole code</it>
+		<fr>Contes de petites queues</fr>
+		<ru>Сказки о крошечных хвостах</ru>
+		<de>Geschichten von Tiny Tails</de>
+		<ko>작은 꼬리 이야기</ko>
+		<jr>テイルズ・オブ・タイニー・テイルズ</jr>
+		<in>Kisah Ekor Kecil</in>
+		<tr>Minik Kuyruk Masalları</tr>
+	</lang>
+
+
+	<lang>
+		<id>album_4</id>
+		<zh>我们来锻炼吧！</zh>
+		<en>Let's work out!</en>
+		<cn>我們來鍛煉吧！</cn>
+		<es>¡Vamos a ejercitarnos!</es>
+		<pt>Vamos malhar!</pt>
+		<it>Alleniamoci!</it>
+		<fr>Entraînons-nous !</fr>
+		<ru>Давайте позанимаемся!</ru>
+		<de>Lass uns Trainieren gehen!</de>
+		<ko>운동하자!</ko>
+		<jr>ワークアウトしましょう！</jr>
+		<in>Mari Berolahraga!</in>
+		<tr>Hadi çalışalım!</tr>
+	</lang>
+
+	<lang>
+		<id>album_14</id>
+		<zh>蓬松嘉年华</zh>
+		<en>Fluffy Fiesta</en>
+		<cn>蓬鬆嘉年華</cn>
+		<es>fiesta esponjosa</es>
+		<pt>festa fofa</pt>
+		<it>Festa soffice</it>
+		<fr>Fête moelleuse</fr>
+		<ru>Пушистая Фиеста</ru>
+		<de>Flauschiges Fest</de>
+		<ko>푹신한 축제</ko>
+		<jr>ふわふわフェスタ</jr>
+		<in>Pesta Berbulu</in>
+		<tr>Kabarık Fiesta</tr>
+	</lang>
+
+	<lang>
+		<id>album_9</id>
+		<zh>赛车</zh>
+		<en>Auto Racing</en>
+		<cn>賽車</cn>
+		<es>Carrera de autos</es>
+		<pt>Automobilismo</pt>
+		<it>Corse automobilistiche</it>
+		<fr>Course automobile</fr>
+		<ru>Автогонки</ru>
+		<de>Autorennen</de>
+		<ko>자동차 경주</ko>
+		<jr>自動車レース</jr>
+		<in>Balap Mobil</in>
+		<tr>Araba yarışı</tr>
+	</lang>
 
 	<lang>
 		<id>lifeStyle_5</id>
