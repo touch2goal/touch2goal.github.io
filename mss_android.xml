@@ -30,8 +30,8 @@
   <worldRankEndNew>2023-9-30</worldRankEndNew>
   <worldRankVer>87</worldRankVer>
   
-  <allowSkip>0</allowSkip>
-  <allowSkipVers>0.86|0.87|0.88|0.89</allowSkipVers>
+  <allowSkip>1</allowSkip>
+  <allowSkipVers>0.84|0.87|0.88|0.91</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   <autoCloseAfterRounds>5</autoCloseAfterRounds>
