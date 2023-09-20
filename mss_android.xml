@@ -22,12 +22,12 @@
   
   <battlePassName>zombie_pass</battlePassName>
   <battlePassStartNew>2023-8-10</battlePassStartNew>
-  <battlePassEndNew>2023-9-30</battlePassEndNew>
+  <battlePassEndNew>2023-9-25</battlePassEndNew>
   <battlePassVer>87</battlePassVer>
   
   <worldRankIndex>2</worldRankIndex>
   <worldRankStartNew>2023-8-10</worldRankStartNew>
-  <worldRankEndNew>2023-9-30</worldRankEndNew>
+  <worldRankEndNew>2023-9-25</worldRankEndNew>
   <worldRankVer>87</worldRankVer>
   
   <allowSkip>0</allowSkip>
