@@ -18,15 +18,15 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>zombie_pass</battlePassName>
-  <battlePassStartNew>2023-8-10</battlePassStartNew>
-  <battlePassEndNew>2023-9-25</battlePassEndNew>
-  <battlePassVer>88</battlePassVer>
+  <battlePassName>animal2_pass</battlePassName>
+  <battlePassStartNew>2023-9-25</battlePassStartNew>
+  <battlePassEndNew>2023-10-25</battlePassEndNew>
+  <battlePassVer>92</battlePassVer>
   
-  <worldRankIndex>2</worldRankIndex>
-  <worldRankStartNew>2023-8-10</worldRankStartNew>
-  <worldRankEndNew>2023-9-25</worldRankEndNew>
-  <worldRankVer>88</worldRankVer>
+  <worldRankIndex>3</worldRankIndex>
+  <worldRankStartNew>2023-9-25</worldRankStartNew>
+  <worldRankEndNew>2023-10-25</worldRankEndNew>
+  <worldRankVer>92</worldRankVer>
   
   <allowSkip>0</allowSkip>
   <allowSkipVers>0.92</allowSkipVers>
