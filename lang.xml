@@ -1,106 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Langs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<lang>
-		<id>worldRank10</id>
-		<zh>超神</zh>
-		<en>Legend</en>
-		<cn>超神</cn>
-		<es>Leyenda</es>
-		<pt>Lenda</pt>
-		<it>Leggenda</it>
-		<fr>Légende</fr>
-		<ru>Легенда</ru>
-		<de>Legende</de>
-		<ko>전설</ko>
-		<jr>伝説</jr>
-		<in>Legenda</in>
-		<tr>Efsane</tr>
-	</lang>
-
-	<lang>
-		<id>album_11</id>
-		<zh>小尾巴的故事</zh>
-		<en>Tales of Tiny Tails</en>
-		<cn>小尾巴的故事</cn>
-		<es>Cuentos de colas diminutas</es>
-		<pt>Contos de Tiny Tails</pt>
-		<it>Racconti di piccole code</it>
-		<fr>Contes de petites queues</fr>
-		<ru>Сказки о крошечных хвостах</ru>
-		<de>Geschichten von Tiny Tails</de>
-		<ko>작은 꼬리 이야기</ko>
-		<jr>テイルズ・オブ・タイニー・テイルズ</jr>
-		<in>Kisah Ekor Kecil</in>
-		<tr>Minik Kuyruk Masalları</tr>
-	</lang>
-
-
-	<lang>
-		<id>album_4</id>
-		<zh>我们来锻炼吧！</zh>
-		<en>Let's work out!</en>
-		<cn>我們來鍛煉吧！</cn>
-		<es>¡Vamos a ejercitarnos!</es>
-		<pt>Vamos malhar!</pt>
-		<it>Alleniamoci!</it>
-		<fr>Entraînons-nous !</fr>
-		<ru>Давайте позанимаемся!</ru>
-		<de>Lass uns Trainieren gehen!</de>
-		<ko>운동하자!</ko>
-		<jr>ワークアウトしましょう！</jr>
-		<in>Mari Berolahraga!</in>
-		<tr>Hadi çalışalım!</tr>
-	</lang>
-
-	<lang>
-		<id>album_14</id>
-		<zh>蓬松嘉年华</zh>
-		<en>Fluffy Fiesta</en>
-		<cn>蓬鬆嘉年華</cn>
-		<es>fiesta esponjosa</es>
-		<pt>festa fofa</pt>
-		<it>Festa soffice</it>
-		<fr>Fête moelleuse</fr>
-		<ru>Пушистая Фиеста</ru>
-		<de>Flauschiges Fest</de>
-		<ko>푹신한 축제</ko>
-		<jr>ふわふわフェスタ</jr>
-		<in>Pesta Berbulu</in>
-		<tr>Kabarık Fiesta</tr>
-	</lang>
-
-	<lang>
-		<id>album_9</id>
-		<zh>赛车</zh>
-		<en>Auto Racing</en>
-		<cn>賽車</cn>
-		<es>Carrera de autos</es>
-		<pt>Automobilismo</pt>
-		<it>Corse automobilistiche</it>
-		<fr>Course automobile</fr>
-		<ru>Автогонки</ru>
-		<de>Autorennen</de>
-		<ko>자동차 경주</ko>
-		<jr>自動車レース</jr>
-		<in>Balap Mobil</in>
-		<tr>Araba yarışı</tr>
-	</lang>
-
-	<lang>
-		<id>lifeStyle_5</id>
-		<zh>沙滩椅 | 悠闲的躺在沙滩椅上是恢复精力的好办法 | 精力恢复时间减半</zh>
-		<en>Beach Chair | Leisurely lying on a beach chair is a good way to restore energy | Energy recovery time reduced by half</en>
-		<cn>沙灘椅 | 悠閒的躺在沙灘椅上是恢復精力的好辦法 | 精力恢復時間減半</cn>
-		<es>silla de playa | Recostarse tranquilamente en una silla de playa es una buena manera de restaurar la energía | Tiempo de recuperación de energía reducido a la mitad</es>
-		<pt>Cadeira de Praia | Deitado em uma cadeira de praia é uma boa maneira de restaurar as energias | Tempo de recuperação de energia reduzido pela metade</pt>
-		<it>Sedia da spiaggia | Sdraiarsi comodamente su una sedia a sdraio è un buon modo per recuperare le energie | Tempo di recupero energetico ridotto della metà</it>
-		<fr>Chaise de plage | S'allonger tranquillement sur une chaise de plage est un bon moyen de retrouver de l'énergie | Temps de récupération d'énergie réduit de moitié</fr>
-		<ru>Пляжный стул | Неторопливо полежать на шезлонге — хороший способ восстановить силы | Время восстановления энергии сокращено вдвое</ru>
-		<de>Strandkorb | Gemütliches Liegen im Strandkorb ist eine gute Möglichkeit, neue Energie zu tanken | Energierückgewinnungszeit um die Hälfte reduziert</de>
-		<ko>비치 체어 | 해변 의자에 한가롭게 누워 있는 것은 에너지를 회복하는 좋은 방법입니다 | 에너지 회수 시간을 절반으로 단축</ko>
-		<jr>ビーチチェア |ビーチチェアにのんびりと横たわることは、エネルギーを回復する良い方法です | エネルギー回復時間が半分に短縮</jr>
-		<in>Kursi Pantai | Berbaring santai di kursi pantai adalah cara yang baik untuk memulihkan energi | Waktu pemulihan energi berkurang setengahnya</in>
-		<tr>Plaj Sandalyesi | Rahatça bir plaj sandalyesine uzanmak, enerjiyi geri kazanmanın iyi bir yoludur | Enerji geri kazanım süresi yarı yarıya azaldı</tr>
+		<id>animal2_pass</id>
+		<zh>野生通行证2</zh>
+		<en>Wild Life Pass 2</en>
+		<cn>野生通行證2</cn>
+		<es>Pase de vida salvaje 2</es>
+		<pt>Passe Vida Selvagem 2</pt>
+		<it>Wild Life Pass 2</it>
+		<fr>Pass Vie Sauvage 2</fr>
+		<ru>дикая жизнь проходит 2</ru>
+		<de>Wildtierpass 2</de>
+		<ko>와일드라이프 패스 2</ko>
+		<jr>ワイルドライフパス 2</jr>
+		<in>Tiket Kehidupan Liar 2</in>
+		<tr>Vahşi Yaşam Kartı 2</tr>
 	</lang>
 	
 </Langs>
