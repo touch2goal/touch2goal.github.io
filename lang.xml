@@ -16,5 +16,55 @@
 		<in>Tiket Kehidupan Liar 2</in>
 		<tr>Vahşi Yaşam Kartı 2</tr>
 	</lang>
+
+	<lang>
+		<id>sticker_tips</id>
+		<zh>贴纸提示</zh>
+		<en>Sticker Tips</en>
+		<cn>貼紙提示</cn>
+		<es>Consejos de pegatinas</es>
+		<pt>Dicas de adesivos</pt>
+		<it>Suggerimenti per gli adesivi</it>
+		<fr>Conseils pour les autocollants</fr>
+		<ru>Советы по использованию стикеров</ru>
+		<de>Tipps zu Aufklebern</de>
+		<ko>스티커 팁</ko>
+		<jr>ステッカーのヒント</jr>
+		<in>Kiat Stiker</in>
+		<tr>Çıkartma İpuçları</tr>
+	</lang>
+
+	<lang>
+		<id>stickerPackDesc1</id>
+		<zh>初级礼包包含2个贴纸，大概率获得1星贴纸</zh>
+		<en>The small pack contains 2 stickers, with a high probability of getting 1-star stickers.</en>
+		<cn>初級禮包包含2個貼紙，大概率獲得1星貼紙。</cn>
+		<es>El paquete pequeño contiene 2 pegatinas, con una alta probabilidad de obtener pegatinas de 1 estrella.</es>
+		<pt>O pacote pequeno contém 2 adesivos, com alta probabilidade de obter adesivos de 1 estrela.</pt>
+		<it>La confezione piccola contiene 2 adesivi, con un'alta probabilità di ricevere adesivi da 1 stella.</it>
+		<fr>Le petit paquet contient 2 autocollants, avec une forte probabilité d'obtenir des autocollants 1 étoile.</fr>
+		<ru>В небольшой упаковке находятся 2 наклейки, с высокой вероятностью получить наклейки с 1 звездой.</ru>
+		<de>Die kleine Packung enthält 2 Aufkleber, mit hoher Wahrscheinlichkeit 1-Stern-Aufkleber zu erhalten.</de>
+		<ko>작은 팩에는 2개의 스티커가 포함되어 있으며 별 1개를 받을 확률이 높습니다.</ko>
+		<jr>小さいパックにはステッカーが 2 枚含まれており、高確率で 1 つ星のステッカーが入手できます.</jr>
+		<in>Paket kecil berisi 2 stiker, dengan kemungkinan besar mendapatkan stiker 1 bintang.</in>
+		<tr>Küçük paket, 1 yıldızlı çıkartma alma olasılığı yüksek olan 2 çıkartma içerir.</tr>
+	</lang>
+	<lang>
+		<id>stickerPackDesc2</id>
+		<zh>高级礼包包含4个贴纸，大概率获得2星贴纸</zh>
+		<en>The primary pack contains 4 stickers, with a high probability of getting 2-star stickers.</en>
+		<cn>高級禮包包含4個貼紙，大概率獲得2星貼紙。</cn>
+		<es>El paquete principal contiene 4 pegatinas, con una alta probabilidad de obtener pegatinas de 2 estrellas.</es>
+		<pt>O pacote principal contém 4 adesivos, com alta probabilidade de obter adesivos de 2 estrelas.</pt>
+		<it>La confezione principale contiene 4 adesivi, con un'alta probabilità di ottenere adesivi a 2 stelle.</it>
+		<fr>Le pack principal contient 4 autocollants, avec une forte probabilité d'obtenir des autocollants 2 étoiles.</fr>
+		<ru>Основной пакет содержит 4 стикера, с высокой вероятностью получить стикеры на 2 звезды.</ru>
+		<de>Die Hauptpackung enthält 4 Aufkleber, mit hoher Wahrscheinlichkeit, 2-Sterne-Aufkleber zu erhalten.</de>
+		<ko>기본 팩에는 스티커 4개가 포함되어 있으며 별 2개 스티커를 얻을 확률이 높습니다.</ko>
+		<jr>プライマリーパックにはステッカーが 4 枚含まれており、高確率で 2 つ星のステッカーが獲得できます.</jr>
+		<in>Paket utama berisi 4 stiker, dengan kemungkinan besar mendapatkan stiker 2 bintang.</in>
+		<tr>Birincil paket, 2 yıldızlı çıkartma alma olasılığı yüksek olan 4 çıkartma içerir.</tr>
+	</lang>
 	
 </Langs>
