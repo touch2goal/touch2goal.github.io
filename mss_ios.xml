@@ -18,15 +18,15 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>animal2_pass</battlePassName>
-  <battlePassStartNew>2023-9-25</battlePassStartNew>
-  <battlePassEndNew>2023-10-25</battlePassEndNew>
-  <battlePassVer>92</battlePassVer>
+  <battlePassName>halloween_pass</battlePassName>
+  <battlePassStartNew>2023-10-25</battlePassStartNew>
+  <battlePassEndNew>2023-11-20</battlePassEndNew>
+  <battlePassVer>95</battlePassVer>
   
-  <worldRankIndex>3</worldRankIndex>
-  <worldRankStartNew>2023-9-25</worldRankStartNew>
-  <worldRankEndNew>2023-10-25</worldRankEndNew>
-  <worldRankVer>92</worldRankVer>
+  <worldRankIndex>4</worldRankIndex>
+  <worldRankStartNew>2023-10-25</worldRankStartNew>
+  <worldRankEndNew>2023-11-20</worldRankEndNew>
+  <worldRankVer>95</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
