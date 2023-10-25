@@ -21,7 +21,7 @@
   <battlePassName>halloween_pass</battlePassName>
   <battlePassStartNew>2023-10-25</battlePassStartNew>
   <battlePassEndNew>2023-11-20</battlePassEndNew>
-  <battlePassVer>95</battlePassVer>
+  <battlePassVer>97</battlePassVer>
   
   <worldRankIndex>4</worldRankIndex>
   <worldRankStartNew>2023-10-25</worldRankStartNew>
@@ -29,7 +29,7 @@
   <worldRankVer>95</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
-  <specialAlbumVer>95</specialAlbumVer>
+  <specialAlbumVer>97</specialAlbumVer>
   
   <allowSkip>1</allowSkip>
   <allowSkipVers>0.94|0.95|0.96|0.97</allowSkipVers>
