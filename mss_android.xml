@@ -33,8 +33,8 @@
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
 
-  <allowSkip>0</allowSkip>
-  <allowSkipVers>0.94|0.95|0.96|0.97</allowSkipVers>
+  <allowSkip>1</allowSkip>
+  <allowSkipVers>0.97|0.98</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   <autoCloseAfterRounds>5</autoCloseAfterRounds>
