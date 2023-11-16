@@ -18,15 +18,15 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>halloween_pass</battlePassName>
-  <battlePassStartNew>2023-10-25</battlePassStartNew>
-  <battlePassEndNew>2023-11-16</battlePassEndNew>
-  <battlePassVer>97</battlePassVer>
+  <battlePassName>warlords_pass</battlePassName>
+  <battlePassStartNew>2023-11-16</battlePassStartNew>
+  <battlePassEndNew>2023-12-15</battlePassEndNew>
+  <battlePassVer>100</battlePassVer>
   
-  <worldRankIndex>4</worldRankIndex>
-  <worldRankStartNew>2023-10-25</worldRankStartNew>
-  <worldRankEndNew>2023-11-16</worldRankEndNew>
-  <worldRankVer>97</worldRankVer>
+  <worldRankIndex>5</worldRankIndex>
+  <worldRankStartNew>2023-11-16</worldRankStartNew>
+  <worldRankEndNew>2023-12-15</worldRankEndNew>
+  <worldRankVer>100</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
