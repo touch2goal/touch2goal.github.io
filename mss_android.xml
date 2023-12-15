@@ -20,15 +20,15 @@
   <disableUA>0</disableUA>
   <noBannerRatio>0</noBannerRatio>
   
-  <battlePassName>warlords_pass</battlePassName>
-  <battlePassStartNew>2023-11-16</battlePassStartNew>
-  <battlePassEndNew>2023-12-15</battlePassEndNew>
-  <battlePassVer>100</battlePassVer>
+  <battlePassName>xmas_pass</battlePassName>
+  <battlePassStartNew>2023-12-15</battlePassStartNew>
+  <battlePassEndNew>2024-1-15</battlePassEndNew>
+  <battlePassVer>105</battlePassVer>
   
   <worldRankIndex>5</worldRankIndex>
-  <worldRankStartNew>2023-11-16</worldRankStartNew>
-  <worldRankEndNew>2023-12-15</worldRankEndNew>
-  <worldRankVer>100</worldRankVer>
+  <worldRankStartNew>2023-12-15</worldRankStartNew>
+  <worldRankEndNew>2024-1-15</worldRankEndNew>
+  <worldRankVer>105</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
