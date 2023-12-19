@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Langs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<lang>
-		<id>animal2_pass</id>
-		<zh>野生通行证2</zh>
-		<en>Wild Life Pass 2</en>
-		<cn>野生通行證2</cn>
-		<es>Pase de vida salvaje 2</es>
-		<pt>Passe Vida Selvagem 2</pt>
-		<it>Wild Life Pass 2</it>
-		<fr>Pass Vie Sauvage 2</fr>
-		<ru>дикая жизнь проходит 2</ru>
-		<de>Wildtierpass 2</de>
-		<ko>와일드라이프 패스 2</ko>
-		<jr>ワイルドライフパス 2</jr>
-		<in>Tiket Kehidupan Liar 2</in>
-		<tr>Vahşi Yaşam Kartı 2</tr>
+		<id>xmas_pass</id>
+		<zh>圣诞节通行证</zh>
+		<en>Xmas Pass</en>
+		<cn>聖誕節通行證</cn>
+		<es>Xmas Pass</es>
+		<pt>Xmas Pass</pt>
+		<it>Xmas Pass</it>
+		<fr>Xmas Pass</fr>
+		<ru>Xmas Pass</ru>
+		<de>Xmas Pass</de>
+		<ko>Xmas Pass</ko>
+		<jr>Xmas Pass</jr>
+		<in>Xmas Pass</in>
+		<tr>Xmas Pass</tr>
 	</lang>
 </Langs>
