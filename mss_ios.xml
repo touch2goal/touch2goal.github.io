@@ -18,15 +18,15 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>xmas_pass</battlePassName>
-  <battlePassStartNew>2023-12-15</battlePassStartNew>
-  <battlePassEndNew>2024-1-10</battlePassEndNew>
-  <battlePassVer>105</battlePassVer>
+  <battlePassName>frozen_pass</battlePassName>
+  <battlePassStartNew>2024-1-9</battlePassStartNew>
+  <battlePassEndNew>2024-2-9</battlePassEndNew>
+  <battlePassVer>107</battlePassVer>
   
-  <worldRankIndex>6</worldRankIndex>
-  <worldRankStartNew>2023-12-15</worldRankStartNew>
-  <worldRankEndNew>2024-1-10</worldRankEndNew>
-  <worldRankVer>105</worldRankVer>
+  <worldRankIndex>7</worldRankIndex>
+  <worldRankStartNew>2024-1-9</worldRankStartNew>
+  <worldRankEndNew>2024-2-9</worldRankEndNew>
+  <worldRankVer>107</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
