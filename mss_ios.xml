@@ -20,19 +20,19 @@
   
   <battlePassName>frozen_pass</battlePassName>
   <battlePassStartNew>2024-1-9</battlePassStartNew>
-  <battlePassEndNew>2024-2-9</battlePassEndNew>
+  <battlePassEndNew>2024-1-30</battlePassEndNew>
   <battlePassVer>107</battlePassVer>
   
   <worldRankIndex>7</worldRankIndex>
   <worldRankStartNew>2024-1-9</worldRankStartNew>
-  <worldRankEndNew>2024-2-9</worldRankEndNew>
+  <worldRankEndNew>2024-1-30</worldRankEndNew>
   <worldRankVer>107</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>0.97|1.06|1.07|1.08</allowSkipVers>
+  <allowSkipVers>0.97|1.06|1.07|1.08|1.09|1.10</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   
