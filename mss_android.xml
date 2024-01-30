@@ -20,14 +20,14 @@
   <disableUA>0</disableUA>
   <noBannerRatio>0</noBannerRatio>
   
-  <battlePassName>frozen_pass</battlePassName>
-  <battlePassStartNew>2024-1-9</battlePassStartNew>
-  <battlePassEndNew>2024-1-30</battlePassEndNew>
+  <battlePassName>cn_dragon_pass</battlePassName>
+  <battlePassStartNew>2024-1-30</battlePassStartNew>
+  <battlePassEndNew>2024-2-28</battlePassEndNew>
   <battlePassVer>107</battlePassVer>
   
-  <worldRankIndex>7</worldRankIndex>
-  <worldRankStartNew>2024-1-9</worldRankStartNew>
-  <worldRankEndNew>2024-1-30</worldRankEndNew>
+  <worldRankIndex>8</worldRankIndex>
+  <worldRankStartNew>2024-1-30</worldRankStartNew>
+  <worldRankEndNew>2024-2-28</worldRankEndNew>
   <worldRankVer>107</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
