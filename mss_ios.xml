@@ -18,21 +18,21 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>woman_soccer_pass</battlePassName>
-  <battlePassStartNew>2024-3-1</battlePassStartNew>
-  <battlePassEndNew>2024-3-26</battlePassEndNew>
+  <battlePassName>easter_pass</battlePassName>
+  <battlePassStartNew>2024-3-26</battlePassStartNew>
+  <battlePassEndNew>2024-4-20</battlePassEndNew>
   <battlePassVer>112</battlePassVer>
   
-  <worldRankIndex>9</worldRankIndex>
-  <worldRankStartNew>2024-3-1</worldRankStartNew>
-  <worldRankEndNew>2024-3-26</worldRankEndNew>
+  <worldRankIndex>10</worldRankIndex>
+  <worldRankStartNew>2024-3-26</worldRankStartNew>
+  <worldRankEndNew>2024-4-20</worldRankEndNew>
   <worldRankVer>112</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
   
   <allowSkip>1</allowSkip>
-  <allowSkipVers>1.13|1.14|1.15</allowSkipVers>
+  <allowSkipVers>1.13|1.14|1.15|1.16</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   
