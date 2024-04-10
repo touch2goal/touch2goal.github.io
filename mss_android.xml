@@ -22,19 +22,19 @@
   
   <battlePassName>easter_pass</battlePassName>
   <battlePassStartNew>2024-3-26</battlePassStartNew>
-  <battlePassEndNew>2024-4-20</battlePassEndNew>
+  <battlePassEndNew>2024-4-11</battlePassEndNew>
   <battlePassVer>115</battlePassVer>
   
   <worldRankIndex>10</worldRankIndex>
   <worldRankStartNew>2024-3-26</worldRankStartNew>
-  <worldRankEndNew>2024-4-20</worldRankEndNew>
+  <worldRankEndNew>2024-4-11</worldRankEndNew>
   <worldRankVer>115</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
 
   <allowSkip>1</allowSkip>
-  <allowSkipVers>1.13|1.14|1.15|1.16</allowSkipVers>
+  <allowSkipVers>1.13|1.14|1.15|1.16|1.17</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   <autoCloseAfterRounds>5</autoCloseAfterRounds>
