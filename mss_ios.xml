@@ -18,15 +18,15 @@
   <noBannerRatio>0</noBannerRatio>
   
   
-  <battlePassName>easter_pass</battlePassName>
-  <battlePassStartNew>2024-3-26</battlePassStartNew>
-  <battlePassEndNew>2024-4-11</battlePassEndNew>
-  <battlePassVer>115</battlePassVer>
+ <battlePassName>legend_pass</battlePassName>
+  <battlePassStartNew>2024-4-11</battlePassStartNew>
+  <battlePassEndNew>2024-5-11</battlePassEndNew>
+  <battlePassVer>117</battlePassVer>
   
-  <worldRankIndex>10</worldRankIndex>
-  <worldRankStartNew>2024-3-26</worldRankStartNew>
-  <worldRankEndNew>2024-4-11</worldRankEndNew>
-  <worldRankVer>115</worldRankVer>
+  <worldRankIndex>11</worldRankIndex>
+  <worldRankStartNew>2024-4-11</worldRankStartNew>
+  <worldRankEndNew>2024-5-11</worldRankEndNew>
+  <worldRankVer>117</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
