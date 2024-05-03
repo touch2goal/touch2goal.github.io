@@ -5,7 +5,7 @@
   <admobAwardAdsMaxShownNum>5</admobAwardAdsMaxShownNum>
   <admobFullAdRatio>90</admobFullAdRatio>
   <admobAwardAdRatio>90</admobAwardAdRatio>
-  <fullAdRound>2</fullAdRound>
+  <fullAdRound>1</fullAdRound>
   <helpTranslation>0</helpTranslation>
   <closeWhenZB>0</closeWhenZB>
   <gameDifficulty1>100</gameDifficulty1>
