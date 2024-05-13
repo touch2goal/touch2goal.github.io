@@ -20,10 +20,10 @@
   <disableUA>0</disableUA>
   <noBannerRatio>0</noBannerRatio>
   
-  <battlePassName>legend_pass</battlePassName>
-  <battlePassStartNew>2024-4-11</battlePassStartNew>
-  <battlePassEndNew>2024-5-11</battlePassEndNew>
-  <battlePassVer>117</battlePassVer>
+  <battlePassName>magician_pass</battlePassName>
+  <battlePassStartNew>2024-5-13</battlePassStartNew>
+  <battlePassEndNew>2024-6-15</battlePassEndNew>
+  <battlePassVer>121</battlePassVer>
   
   <worldRankIndex>11</worldRankIndex>
   <worldRankStartNew>2024-4-11</worldRankStartNew>
