@@ -20,15 +20,15 @@
   <disableUA>0</disableUA>
   <noBannerRatio>0</noBannerRatio>
   
-  <battlePassName>magician_pass</battlePassName>
-  <battlePassStartNew>2024-5-13</battlePassStartNew>
-  <battlePassEndNew>2024-6-9</battlePassEndNew>
-  <battlePassVer>121</battlePassVer>
+  <battlePassName>euro_cup_pass</battlePassName>
+  <battlePassStartNew>2024-6-9</battlePassStartNew>
+  <battlePassEndNew>2024-7-17</battlePassEndNew>
+  <battlePassVer>123</battlePassVer>
   
-  <worldRankIndex>12</worldRankIndex>
-  <worldRankStartNew>2024-5-13</worldRankStartNew>
-  <worldRankEndNew>2024-6-9</worldRankEndNew>
-  <worldRankVer>121</worldRankVer>
+  <worldRankIndex>13</worldRankIndex>
+  <worldRankStartNew>2024-6-9</worldRankStartNew>
+  <worldRankEndNew>2024-7-17</worldRankEndNew>
+  <worldRankVer>123</worldRankVer>
 
   <specialAlbumEnd>2023-11-13</specialAlbumEnd>
   <specialAlbumVer>95</specialAlbumVer>
