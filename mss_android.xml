@@ -34,7 +34,7 @@
   <specialAlbumVer>95</specialAlbumVer>
 
   <allowSkip>1</allowSkip>
-  <allowSkipVers>1.41|1.42|1.43</allowSkipVers>
+  <allowSkipVers>1.41|1.42|1.43|1.44|1.45|1.46</allowSkipVers>
   <allowExtraFuc>1</allowExtraFuc>
   
   <autoCloseAfterRounds>5</autoCloseAfterRounds>
